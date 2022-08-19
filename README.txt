@@ -1,1 +1,2 @@
-git is totally rad!
+git is super cool!
+
